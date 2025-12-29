@@ -9,7 +9,7 @@ This level introduces essential Linux commands such as ssh,ls and cat which are 
 
 <img width="795" height="562" alt="Screenshot 2025-12-29 191443" src="https://github.com/user-attachments/assets/937cde64-d737-492f-8503-a6730fc0b8d6" />
 
-<img width="703" height="184" alt="image" src="https://github.com/user-attachments/assets/4374797b-d669-47ae-b6d8-25e72d57a155" />
+
 
 
 
