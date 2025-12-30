@@ -13,4 +13,8 @@ When the script runs, it is able to access and generate a file named password.tx
 <img width="769" height="526" alt="image" src="https://github.com/user-attachments/assets/8cf93da4-742e-461e-b007-9a2f327c988a" />
 
 
+<img width="805" height="713" alt="Screenshot 2025-12-30 171916" src="https://github.com/user-attachments/assets/94955a7b-7315-4259-9c2c-4a11e859cd13" />
+
+
+
 <img width="843" height="432" alt="image" src="https://github.com/user-attachments/assets/9c4f9f46-df65-41c4-a47d-f28087afe556" />
